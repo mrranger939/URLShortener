@@ -1,6 +1,6 @@
 # Link Analytics Dashboard - A Mini-SaaS URL Shortener
 
-Link Analytics Dashboard is a full-stack URL shortener with analytics capabilities similar to Bitly. This application allows users to create shortened links and track their performance through a comprehensive dashboard that displays metrics such as clicks, geographic locations, and device information.
+Link Analytics Dashboard is a full-stack URL shortener with analytics capabilities similar to Bitly. This application allows users to create shortened links and track their performance through a comprehensive dashboard that displays metrics such as clicks, browsers, and device information.
 
 ## Features
 
