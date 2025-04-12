@@ -30,6 +30,7 @@ Link Analytics Dashboard is a full-stack URL shortener with analytics capabiliti
 The project follows a client-server architecture:
 
 ```
+*
 ├── client                  # React frontend
 │   ├── public              # Static assets
 │   ├── src
